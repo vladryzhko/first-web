@@ -1,0 +1,37 @@
+h1 {
+    font-size: 30px;
+    color: blueviolet;
+    margin-top: 40px;
+    margin-left: 40px;
+ }
+p {
+    font-size: 30px;
+    color:rgb(167, 244, 35);
+    background-color:red;
+    margin-top:40px;
+    margin-left: 30px;
+ }
+ 
+img{
+     margin-left:50px;
+ }
+ 
+div{
+     margin-left:110px;
+     margin-top:20px;
+     font-size:20px;
+ }
+a{
+     color: rgb(110, 90, 214);
+     font-size:20px;
+ }
+button{
+     font-size: 20px;
+     background-color:yellow;
+     margin-top: 30px;
+     margin-left: 100px;
+ }
+.output{ 
+    color: green;
+    margin-left: 95px;
+}
